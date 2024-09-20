@@ -11,23 +11,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
+global.ownernomer = "242064677125"
+global.ownername = "BLACK KILLER"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownernumber = '242064677125'  //creator number
+global.ownername = 'BLACK KILLER' //owner name
+global.botname = 'BLACK KILLER' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.packname = 'Senateur Black Killer'
+global.author = 'BLACK KILLER\n\nContact: +242064677125'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "BLACK KILLER"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
@@ -59,7 +59,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
+    done: 'Cest fait bb' !',
     prem: 'REMARK: This feature can be used by premium user only',
     admin: 'REMARK: This feature can be used by admin only',
     botAdmin: 'REMARK: This feature can only be used when the bot is a group admin ',
